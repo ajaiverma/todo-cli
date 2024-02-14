@@ -27,11 +27,12 @@
     `npm start`
 
 ## Configuration
-The `config.json` file is used for configuring the base URL of the API, todos count etc. Modify this file if you need to change the API endpoint and the todos fetch count.
+The `config.json` file is used for configuring the base URL of the API. Modify this file if you need to change the API endpoint.
 
 ## Running Tests
 To run tests, use the following command:
-npm test
+   
+   `npm test`
 
 ## Docker
 
